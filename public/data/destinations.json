@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "patagonia",
+    "name": "Patagonia",
+    "country": "Argentina & Chile",
+    "iataCode": "EZE",
+    "lat": -51.5,
+    "lng": -72.2,
+    "tagline": "Glaciers and granite peaks",
+    "description": "Experience the raw beauty of South America's most dramatic landscape, where towering granite peaks rise above turquoise glacial lakes and vast windswept plateaus.",
+    "vibe": [
+      "Adventure",
+      "Nature",
+      "Wilderness"
+    ],
+    "bestTime": "December to February",
+    "heroImage": "https://picsum.photos/seed/patagonia-hero/1200/600",
+    "stays": [
+      {
+        "name": "Eolo Patagonia's Spirit",
+        "type": "Luxury Lodge",
+        "description": "A stunning estancia with panoramic views of the Pampas",
+        "image": "https://picsum.photos/seed/patagonia-stay-1/500/400",
+        "priceNote": "From $450/night"
+      },
+      {
+        "name": "Explora Patagonia",
+        "type": "All-Inclusive Lodge",
+        "description": "Premium eco-lodge with guided expeditions included",
+        "image": "https://picsum.photos/seed/patagonia-stay-2/500/400",
+        "priceNote": "From $550/night"
+      },
+      {
+        "name": "Relais & Châteaux",
+        "type": "Luxury Hotel",
+        "description": "High-end accommodation in El Calafate with gourmet dining",
+        "image": "https://picsum.photos/seed/patagonia-stay-3/500/400",
+        "priceNote": "From $380/night"
+      }
+    ],
+    "experiences": [
+      "Trek to Perito Moreno Glacier",
+      "Horse riding across the pampas",
+      "Kayaking on turquoise glacial lakes",
+      "Rock climbing at El Chaltén"
+    ]
+  },
+  {
+    "id": "santorini",
+    "name": "Santorini",
+    "country": "Greece",
+    "iataCode": "JTR",
+    "lat": 36.4,
+    "lng": 25.4,
+    "tagline": "Blue domes and sunset dreams",
+    "description": "Perched on volcanic cliffs, this iconic Greek island offers stunning sunsets, whitewashed buildings, and the deepest azure waters of the Aegean.",
+    "vibe": [
+      "Romantic",
+      "Beach",
+      "Cultural"
+    ],
+    "bestTime": "April to October",
+    "heroImage": "https://picsum.photos/seed/santorini-hero/1200/600",
+    "stays": [
+      {
+        "name": "Canaves Oia Suites",
+        "type": "Luxury Suites",
+        "description": "Iconic clifftop suites with private infinity pools",
+        "image": "https://picsum.photos/seed/santorini-stay-4/500/400",
+        "priceNote": "From $800/night"
+      },
+      {
+        "name": "Perivolas",
+        "type": "Boutique Hotel",
+        "description": "Adults-only cave hotel carved into volcanic cliffs",
+        "image": "https://picsum.photos/seed/santorini-stay-5/500/400",
+        "priceNote": "From $650/night"
+      },
+      {
+        "name": "Gold Suites",
+        "type": "Design Hotel",
+        "description": "Modern luxury with traditional Cycladic architecture",
+        "image": "https://picsum.photos/seed/santorini-stay-6/500/400",
+        "priceNote": "From $500/night"
+      }
+    ],
+    "experiences": [
+      "Watch the sunset from Oia",
+      "Sail to Nea Kameni volcanic island",
+      "Wine tasting at local vineyards",
+      "Swim in hot springs near Palea Kameni"
+    ]
+  },
+  {
+    "id": "kyoto",
+    "name": "Kyoto",
+    "country": "Japan",
+    "iataCode": "KIX",
+    "lat": 35,
+    "lng": 135.8,
+    "tagline": "Temple gardens and geisha grace",
+    "description": "Japan's ancient capital preserves over a thousand years of tradition in its temples, bamboo forests, and serene gardens where time moves slowly.",
+    "vibe": [
+      "Cultural",
+      "Peaceful",
+      "Historical"
+    ],
+    "bestTime": "March to May, September to November",
+    "heroImage": "https://picsum.photos/seed/kyoto-hero/1200/600",
+    "stays": [
+      {
+        "name": "The Ritz-Carlton Kyoto",
+        "type": "Ultra-Luxury Hotel",
+        "description": "Riverside palace-inspired resort with private gardens",
+        "image": "https://picsum.photos/seed/kyoto-stay-7/500/400",
+        "priceNote": "From $1200/night"
+      },
+      {
+        "name": "Four Seasons Kyoto",
+        "type": "Luxury Resort",
+        "description": "Mountain sanctuary with traditional tea houses",
+        "image": "https://picsum.photos/seed/kyoto-stay-8/500/400",
+        "priceNote": "From $900/night"
+      },
+      {
+        "name": "The Sukhothai",
+        "type": "Boutique Hotel",
+        "description": "Contemporary luxury in the heart of the city",
+        "image": "https://picsum.photos/seed/kyoto-stay-9/500/400",
+        "priceNote": "From $500/night"
+      }
+    ],
+    "experiences": [
+      "Walk through bamboo forest in Arashiyama",
+      "Temple hopping in Higashiyama district",
+      "Attend a traditional tea ceremony",
+      "Experience a geisha dinner in Gion"
+    ]
+  },
+  {
+    "id": "marrakech",
+    "name": "Marrakech",
+    "country": "Morocco",
+    "iataCode": "RAK",
+    "lat": 31.6,
+    "lng": -8,
+    "tagline": "Spice markets and desert magic",
+    "description": "Morocco's most vibrant city pulses with the energy of bustling souks, the serenity of Moorish gardens, and the allure of nearby desert landscapes.",
+    "vibe": [
+      "Exotic",
+      "Cultural",
+      "Adventure"
+    ],
+    "bestTime": "October to April",
+    "heroImage": "https://picsum.photos/seed/marrakech-hero/1200/600",
+    "stays": [
+      {
+        "name": "La Mamounia",
+        "type": "Historic Palace",
+        "description": "Iconic 1923 palace with lush gardens in the medina",
+        "image": "https://picsum.photos/seed/marrakech-stay-10/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Mandarin Oriental Marrakech",
+        "type": "Luxury Hotel",
+        "description": "Modern oasis with Moroccan design elements",
+        "image": "https://picsum.photos/seed/marrakech-stay-11/500/400",
+        "priceNote": "From $550/night"
+      },
+      {
+        "name": "Riad Dar Anika",
+        "type": "Boutique Riad",
+        "description": "Traditional courtyard mansion converted to a romantic riad",
+        "image": "https://picsum.photos/seed/marrakech-stay-12/500/400",
+        "priceNote": "From $180/night"
+      }
+    ],
+    "experiences": [
+      "Explore Jemaa el-Fnaa market square",
+      "Visit Majorelle Garden",
+      "Camel trek to the Sahara",
+      "Haggle in the medina souks"
+    ]
+  },
+  {
+    "id": "amalfi-coast",
+    "name": "Amalfi Coast",
+    "country": "Italy",
+    "iataCode": "NAP",
+    "lat": 40.6,
+    "lng": 14.6,
+    "tagline": "Cliffs and limoncello",
+    "description": "Dramatic cliffsides plunge into turquoise Mediterranean waters, with pastel villages clinging to steep terrain, creating one of the world's most picturesque coastlines.",
+    "vibe": [
+      "Romantic",
+      "Beach",
+      "Scenic"
+    ],
+    "bestTime": "April to October",
+    "heroImage": "https://picsum.photos/seed/amalfi-coast-hero/1200/600",
+    "stays": [
+      {
+        "name": "Monastero Santa Rosa",
+        "type": "Luxury Hotel",
+        "description": "Converted convent perched on cliffs with Michelin-starred restaurant",
+        "image": "https://picsum.photos/seed/amalfi-coast-stay-13/500/400",
+        "priceNote": "From $700/night"
+      },
+      {
+        "name": "Villa Treville",
+        "type": "Boutique Hotel",
+        "description": "Intimate clifftop property with Positano's best sunset views",
+        "image": "https://picsum.photos/seed/amalfi-coast-stay-14/500/400",
+        "priceNote": "From $600/night"
+      },
+      {
+        "name": "Hotel Miramalfi",
+        "type": "Mid-Range Hotel",
+        "description": "Family-run hotel with direct beach access in Praiano",
+        "image": "https://picsum.photos/seed/amalfi-coast-stay-15/500/400",
+        "priceNote": "From $250/night"
+      }
+    ],
+    "experiences": [
+      "Boat tour to hidden coves",
+      "Visit Emerald Grotto",
+      "Lemon grove tour and limoncello tasting",
+      "Hike the Path of the Gods"
+    ]
+  },
+  {
+    "id": "bali",
+    "name": "Bali",
+    "country": "Indonesia",
+    "iataCode": "DPS",
+    "lat": -8.6,
+    "lng": 115.2,
+    "tagline": "Temples and rice terraces",
+    "description": "This Indonesian island enchants with spiritual temples, verdant rice paddies, world-class beaches, and a vibrant culture woven into everyday life.",
+    "vibe": [
+      "Beach",
+      "Spiritual",
+      "Relaxing"
+    ],
+    "bestTime": "April to October",
+    "heroImage": "https://picsum.photos/seed/bali-hero/1200/600",
+    "stays": [
+      {
+        "name": "Aman Ubud",
+        "type": "Luxury Resort",
+        "description": "Clifftop sanctuary overlooking rice paddies with spa",
+        "image": "https://picsum.photos/seed/bali-stay-16/500/400",
+        "priceNote": "From $800/night"
+      },
+      {
+        "name": "Bulgari Resort Bali",
+        "type": "Ultra-Luxury Resort",
+        "description": "Clifftop villas with infinity pools and private beach",
+        "image": "https://picsum.photos/seed/bali-stay-17/500/400",
+        "priceNote": "From $1500/night"
+      },
+      {
+        "name": "The Samaya Ubud",
+        "type": "Boutique Resort",
+        "description": "Riverside villas in the jungle with yoga pavilions",
+        "image": "https://picsum.photos/seed/bali-stay-18/500/400",
+        "priceNote": "From $350/night"
+      }
+    ],
+    "experiences": [
+      "Sunrise hike at Mount Batur",
+      "Visit Tanah Lot temple",
+      "Rice terrace trekking",
+      "Balinese cooking class"
+    ]
+  },
+  {
+    "id": "cappadocia",
+    "name": "Cappadocia",
+    "country": "Turkey",
+    "iataCode": "KYA",
+    "lat": 38.7,
+    "lng": 34.5,
+    "tagline": "Fairy chimneys and hot air balloons",
+    "description": "Otherworldly landscape of cone-shaped rock formations and ancient cave dwellings creates a magical setting for hot air balloon rides and exploration.",
+    "vibe": [
+      "Adventure",
+      "Historical",
+      "Surreal"
+    ],
+    "bestTime": "April to May, September to October",
+    "heroImage": "https://picsum.photos/seed/cappadocia-hero/1200/600",
+    "stays": [
+      {
+        "name": "Museum Hotel",
+        "type": "Historic Boutique",
+        "description": "Cave hotel in a converted mansion with exceptional views",
+        "image": "https://picsum.photos/seed/cappadocia-stay-19/500/400",
+        "priceNote": "From $200/night"
+      },
+      {
+        "name": "Argos in Cappadocia",
+        "type": "Luxury Cave Hotel",
+        "description": "Luxurious cave rooms carved into volcanic rock",
+        "image": "https://picsum.photos/seed/cappadocia-stay-20/500/400",
+        "priceNote": "From $350/night"
+      },
+      {
+        "name": "Kappados Hotel",
+        "type": "Boutique Hotel",
+        "description": "Contemporary design in traditional cave structures",
+        "image": "https://picsum.photos/seed/cappadocia-stay-21/500/400",
+        "priceNote": "From $150/night"
+      }
+    ],
+    "experiences": [
+      "Hot air balloon ride at sunrise",
+      "Explore Goreme Open Air Museum",
+      "Underground city tour",
+      "Pottery workshop with local artisans"
+    ]
+  },
+  {
+    "id": "iceland",
+    "name": "Iceland",
+    "country": "Iceland",
+    "iataCode": "KEF",
+    "lat": 64.1,
+    "lng": -21.9,
+    "tagline": "Glaciers and geysers",
+    "description": "Land of fire and ice where waterfalls thunder, glaciers stretch across valleys, geysers shoot boiling water skyward, and the Northern Lights dance overhead.",
+    "vibe": [
+      "Adventure",
+      "Nature",
+      "Dramatic"
+    ],
+    "bestTime": "June to August for summer, December to February for Northern Lights",
+    "heroImage": "https://picsum.photos/seed/iceland-hero/1200/600",
+    "stays": [
+      {
+        "name": "The Retreat at Blue Lagoon",
+        "type": "Luxury Resort",
+        "description": "Geothermal hot spring resort with spa and modern design",
+        "image": "https://picsum.photos/seed/iceland-stay-22/500/400",
+        "priceNote": "From $600/night"
+      },
+      {
+        "name": "Deplar Farm",
+        "type": "Luxury Lodge",
+        "description": "Boutique mountain lodge with geothermal heating",
+        "image": "https://picsum.photos/seed/iceland-stay-23/500/400",
+        "priceNote": "From $800/night"
+      },
+      {
+        "name": "Hótel Borg",
+        "type": "Historic Hotel",
+        "description": "Classic Reykjavik hotel in the heart of the capital",
+        "image": "https://picsum.photos/seed/iceland-stay-24/500/400",
+        "priceNote": "From $300/night"
+      }
+    ],
+    "experiences": [
+      "Chase the Northern Lights",
+      "Visit Geysir geothermal area",
+      "Hike to Skógafoss waterfall",
+      "Glacier trekking on Sólheimajökull"
+    ]
+  },
+  {
+    "id": "queenstown",
+    "name": "Queenstown",
+    "country": "New Zealand",
+    "iataCode": "ZQN",
+    "lat": -44.9,
+    "lng": 168.7,
+    "tagline": "Adventure capital of the world",
+    "description": "Nestled between mountains and a pristine lake, this adrenaline-fueled town offers bungee jumping, skydiving, jet boating, and some of the world's best outdoor adventures.",
+    "vibe": [
+      "Adventure",
+      "Active",
+      "Scenic"
+    ],
+    "bestTime": "December to February",
+    "heroImage": "https://picsum.photos/seed/queenstown-hero/1200/600",
+    "stays": [
+      {
+        "name": "The Ritz-Carlton Queenstown",
+        "type": "Ultra-Luxury Hotel",
+        "description": "Clifftop property with panoramic lake and mountain views",
+        "image": "https://picsum.photos/seed/queenstown-stay-25/500/400",
+        "priceNote": "From $900/night"
+      },
+      {
+        "name": "Matakauri Lodge",
+        "type": "Luxury Lodge",
+        "description": "Exclusive hilltop retreat with personalized service",
+        "image": "https://picsum.photos/seed/queenstown-stay-26/500/400",
+        "priceNote": "From $700/night"
+      },
+      {
+        "name": "Hilton Queenstown",
+        "type": "Upscale Hotel",
+        "description": "Lakefront hotel in the city center",
+        "image": "https://picsum.photos/seed/queenstown-stay-27/500/400",
+        "priceNote": "From $400/night"
+      }
+    ],
+    "experiences": [
+      "Bungee jumping off Kawarau Bridge",
+      "Jet boat down Shotover River",
+      "Skydiving with lake and mountain backdrop",
+      "Milford Sound day cruise"
+    ]
+  },
+  {
+    "id": "maldives",
+    "name": "Maldives",
+    "country": "Maldives",
+    "iataCode": "MLE",
+    "lat": 4.2,
+    "lng": 73.5,
+    "tagline": "Overwater bungalows and turquoise lagoons",
+    "description": "Tropical paradise scattered across the Indian Ocean with pristine white-sand beaches, crystal-clear lagoons teeming with marine life, and ultimate luxury resorts.",
+    "vibe": [
+      "Beach",
+      "Luxury",
+      "Relaxing"
+    ],
+    "bestTime": "November to April",
+    "heroImage": "https://picsum.photos/seed/maldives-hero/1200/600",
+    "stays": [
+      {
+        "name": "The St. Regis Maldives Vommuli",
+        "type": "Ultra-Luxury Resort",
+        "description": "Overwater villas with underwater dining and private pools",
+        "image": "https://picsum.photos/seed/maldives-stay-28/500/400",
+        "priceNote": "From $2000/night"
+      },
+      {
+        "name": "Four Seasons Maldives",
+        "type": "Luxury Resort",
+        "description": "Island resort with lagoon and ocean villas",
+        "image": "https://picsum.photos/seed/maldives-stay-29/500/400",
+        "priceNote": "From $1500/night"
+      },
+      {
+        "name": "Angsana Laguna Maldives",
+        "type": "Mid-Range Resort",
+        "description": "All-inclusive resort on a beautiful island",
+        "image": "https://picsum.photos/seed/maldives-stay-30/500/400",
+        "priceNote": "From $600/night"
+      }
+    ],
+    "experiences": [
+      "Snorkel with manta rays",
+      "Scuba diving on house reef",
+      "Island hopping adventure",
+      "Sunset fishing trip"
+    ]
+  },
+  {
+    "id": "cusco",
+    "name": "Cusco",
+    "country": "Peru",
+    "iataCode": "CUZ",
+    "lat": -13.5,
+    "lng": -71.9,
+    "tagline": "Incan heritage and mountain mystique",
+    "description": "Ancient Incan capital nestled high in the Andes mountains, featuring stunning colonial architecture, sacred temples, and the gateway to Machu Picchu.",
+    "vibe": [
+      "Historical",
+      "Cultural",
+      "Adventure"
+    ],
+    "bestTime": "April to October",
+    "heroImage": "https://picsum.photos/seed/cusco-hero/1200/600",
+    "stays": [
+      {
+        "name": "Belmond Hotel Monasterio",
+        "type": "Luxury Historic Hotel",
+        "description": "Converted 16th-century monastery with colonial elegance",
+        "image": "https://picsum.photos/seed/cusco-stay-31/500/400",
+        "priceNote": "From $450/night"
+      },
+      {
+        "name": "Palacio Nazarenas",
+        "type": "Luxury Palace Hotel",
+        "description": "Palace with colonial architecture and Incan stonework",
+        "image": "https://picsum.photos/seed/cusco-stay-32/500/400",
+        "priceNote": "From $500/night"
+      },
+      {
+        "name": "Selina Plaza de Armas",
+        "type": "Boutique Hotel",
+        "description": "Trendy hotel in a historic building overlooking the main plaza",
+        "image": "https://picsum.photos/seed/cusco-stay-33/500/400",
+        "priceNote": "From $150/night"
+      }
+    ],
+    "experiences": [
+      "Trek the Inca Trail to Machu Picchu",
+      "Explore the Sacred Valley",
+      "Visit Incan temples and ruins",
+      "Mountain biking adventure"
+    ]
+  },
+  {
+    "id": "serengeti",
+    "name": "Serengeti",
+    "country": "Tanzania",
+    "iataCode": "ZNZ",
+    "lat": -2.3,
+    "lng": 34.8,
+    "tagline": "Big Five and endless plains",
+    "description": "Africa's greatest wildlife spectacle unfolds across these vast golden plains where thousands of animals migrate, predators hunt, and the circle of life plays out daily.",
+    "vibe": [
+      "Safari",
+      "Adventure",
+      "Wildlife"
+    ],
+    "bestTime": "June to October, December to February",
+    "heroImage": "https://picsum.photos/seed/serengeti-hero/1200/600",
+    "stays": [
+      {
+        "name": "Four Seasons Safari Lodge",
+        "type": "Luxury Safari Lodge",
+        "description": "Five-star lodge overlooking the Serengeti plains",
+        "image": "https://picsum.photos/seed/serengeti-stay-34/500/400",
+        "priceNote": "From $1200/night"
+      },
+      {
+        "name": "Singita Sasakwa Lodge",
+        "type": "Ultra-Luxury Lodge",
+        "description": "Exclusive private lodge with gourmet cuisine",
+        "image": "https://picsum.photos/seed/serengeti-stay-35/500/400",
+        "priceNote": "From $2000/night"
+      },
+      {
+        "name": "Serengeti Luxury Camp",
+        "type": "Luxury Tented Camp",
+        "description": "Glamping experience under the stars",
+        "image": "https://picsum.photos/seed/serengeti-stay-36/500/400",
+        "priceNote": "From $800/night"
+      }
+    ],
+    "experiences": [
+      "Game drives spotting the Big Five",
+      "Hot air balloon safari at sunrise",
+      "Witness the Great Migration crossing",
+      "Night safari adventure"
+    ]
+  },
+  {
+    "id": "halong-bay",
+    "name": "Ha Long Bay",
+    "country": "Vietnam",
+    "iataCode": "HAN",
+    "lat": 20.9,
+    "lng": 107.2,
+    "tagline": "Limestone isles and emerald waters",
+    "description": "UNESCO World Heritage site featuring thousands of limestone karst islands rising dramatically from emerald waters, creating an otherworldly seascape.",
+    "vibe": [
+      "Scenic",
+      "Peaceful",
+      "Adventure"
+    ],
+    "bestTime": "October to April",
+    "heroImage": "https://picsum.photos/seed/halong-bay-hero/1200/600",
+    "stays": [
+      {
+        "name": "Signature Halong Cruise",
+        "type": "Luxury Cruise",
+        "description": "Premium overnight cruise through the bay",
+        "image": "https://picsum.photos/seed/halong-bay-stay-37/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Paradise Peak Suites",
+        "type": "Boutique Hotel",
+        "description": "Clifftop suites overlooking Ha Long Bay",
+        "image": "https://picsum.photos/seed/halong-bay-stay-38/500/400",
+        "priceNote": "From $250/night"
+      },
+      {
+        "name": "Heritage Line Cruises",
+        "type": "Upscale Cruise",
+        "description": "Traditional junk-style boats with modern amenities",
+        "image": "https://picsum.photos/seed/halong-bay-stay-39/500/400",
+        "priceNote": "From $350/night"
+      }
+    ],
+    "experiences": [
+      "Cruise through limestone islands",
+      "Visit floating villages",
+      "Kayak through hidden lagoons",
+      "Sunset on the water"
+    ]
+  },
+  {
+    "id": "dubrovnik",
+    "name": "Dubrovnik",
+    "country": "Croatia",
+    "iataCode": "DBV",
+    "lat": 42.6,
+    "lng": 18.1,
+    "tagline": "Pearl of the Adriatic",
+    "description": "Walled medieval city perched on the Adriatic coast with pristine beaches, crystal-clear waters, and stunning Venetian-style architecture.",
+    "vibe": [
+      "Romantic",
+      "Historical",
+      "Beach"
+    ],
+    "bestTime": "May to September",
+    "heroImage": "https://picsum.photos/seed/dubrovnik-hero/1200/600",
+    "stays": [
+      {
+        "name": "Excelsior Dubrovnik",
+        "type": "Luxury Hotel",
+        "description": "Iconic waterfront hotel with panoramic Adriatic views",
+        "image": "https://picsum.photos/seed/dubrovnik-stay-40/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Villa Wolff",
+        "type": "Boutique Luxury",
+        "description": "Small luxury hotel in the heart of the Old Town",
+        "image": "https://picsum.photos/seed/dubrovnik-stay-41/500/400",
+        "priceNote": "From $350/night"
+      },
+      {
+        "name": "Dubrovnik Palace",
+        "type": "Upscale Hotel",
+        "description": "Modern hotel with sea views near the old city",
+        "image": "https://picsum.photos/seed/dubrovnik-stay-42/500/400",
+        "priceNote": "From $250/night"
+      }
+    ],
+    "experiences": [
+      "Walk the ancient city walls",
+      "Visit the Game of Thrones filming locations",
+      "Island-hop to Lopud and Koločep",
+      "Swim at Banje Beach"
+    ]
+  },
+  {
+    "id": "norwegian-fjords",
+    "name": "Norwegian Fjords",
+    "country": "Norway",
+    "iataCode": "BGO",
+    "lat": 60.4,
+    "lng": 5.3,
+    "tagline": "Waterfalls and midnight sun",
+    "description": "Norway's dramatic fjords feature towering cliff faces, cascading waterfalls, turquoise waters, and charming villages set against a backdrop of snow-capped peaks.",
+    "vibe": [
+      "Nature",
+      "Scenic",
+      "Adventure"
+    ],
+    "bestTime": "June to August",
+    "heroImage": "https://picsum.photos/seed/norwegian-fjords-hero/1200/600",
+    "stays": [
+      {
+        "name": "Fjord Norway Luxury Hotels",
+        "type": "Luxury Hotel",
+        "description": "5-star accommodations in scenic fjord locations",
+        "image": "https://picsum.photos/seed/norwegian-fjords-stay-43/500/400",
+        "priceNote": "From $450/night"
+      },
+      {
+        "name": "The Juvet Landscape Hotel",
+        "type": "Boutique Design Hotel",
+        "description": "Contemporary glass rooms overlooking dramatic valleys",
+        "image": "https://picsum.photos/seed/norwegian-fjords-stay-44/500/400",
+        "priceNote": "From $500/night"
+      },
+      {
+        "name": "Geirangerfjord Hotel",
+        "type": "Traditional Hotel",
+        "description": "Charming mountain lodge with fjord views",
+        "image": "https://picsum.photos/seed/norwegian-fjords-stay-45/500/400",
+        "priceNote": "From $200/night"
+      }
+    ],
+    "experiences": [
+      "Fjord cruise with waterfall viewings",
+      "Hiking to mountain plateaus",
+      "Experience midnight sun",
+      "Visit charming fishing villages"
+    ]
+  },
+  {
+    "id": "faroe-islands",
+    "name": "Faroe Islands",
+    "country": "Denmark",
+    "iataCode": "FAE",
+    "lat": 62,
+    "lng": -7,
+    "tagline": "Rugged beauty and sheep-dotted cliffs",
+    "description": "These remote Nordic islands showcase dramatic sea cliffs, verdant valleys, mysterious villages, and untamed natural beauty in one of Europe's last frontier territories.",
+    "vibe": [
+      "Adventure",
+      "Nature",
+      "Peaceful"
+    ],
+    "bestTime": "June to August",
+    "heroImage": "https://picsum.photos/seed/faroe-islands-hero/1200/600",
+    "stays": [
+      {
+        "name": "Hotel Føroyar",
+        "type": "Luxury Hotel",
+        "description": "Modern design hotel with views of waterfalls and cliffs",
+        "image": "https://picsum.photos/seed/faroe-islands-stay-46/500/400",
+        "priceNote": "From $300/night"
+      },
+      {
+        "name": "Borg Guesthouse",
+        "type": "Boutique Guesthouse",
+        "description": "Charming family-run guesthouse in a fishing village",
+        "image": "https://picsum.photos/seed/faroe-islands-stay-47/500/400",
+        "priceNote": "From $150/night"
+      },
+      {
+        "name": "Magni Hotel",
+        "type": "Contemporary Hotel",
+        "description": "Modern waterfront hotel with local Faroese design",
+        "image": "https://picsum.photos/seed/faroe-islands-stay-48/500/400",
+        "priceNote": "From $200/night"
+      }
+    ],
+    "experiences": [
+      "Hiking to dramatic cliff viewpoints",
+      "Visit isolated villages by boat",
+      "Bird watching at sea cliffs",
+      "Experience local culture and cuisine"
+    ]
+  },
+  {
+    "id": "raja-ampat",
+    "name": "Raja Ampat",
+    "country": "Indonesia",
+    "iataCode": "SBZ",
+    "lat": -0.2,
+    "lng": 130.4,
+    "tagline": "Underwater paradise",
+    "description": "Remote Indonesian archipelago is a diver's dream, featuring the world's most biodiverse marine ecosystems, pristine islands, and turquoise lagoons.",
+    "vibe": [
+      "Diving",
+      "Beach",
+      "Adventure"
+    ],
+    "bestTime": "October to April",
+    "heroImage": "https://picsum.photos/seed/raja-ampat-hero/1200/600",
+    "stays": [
+      {
+        "name": "Raja Ampat Resort",
+        "type": "Luxury Resort",
+        "description": "Exclusive dive resort with private beach",
+        "image": "https://picsum.photos/seed/raja-ampat-stay-49/500/400",
+        "priceNote": "From $600/night"
+      },
+      {
+        "name": "Meridian Adventure Dive",
+        "type": "Dive Lodge",
+        "description": "Liveaboard diving platform for serious divers",
+        "image": "https://picsum.photos/seed/raja-ampat-stay-50/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Arborek Homestay",
+        "type": "Budget Guesthouse",
+        "description": "Authentic village guesthouse on a local island",
+        "image": "https://picsum.photos/seed/raja-ampat-stay-51/500/400",
+        "priceNote": "From $80/night"
+      }
+    ],
+    "experiences": [
+      "World-class scuba diving",
+      "Snorkeling in pristine reefs",
+      "Island hopping adventure",
+      "Meet the Bajau sea people"
+    ]
+  },
+  {
+    "id": "bhutan",
+    "name": "Bhutan",
+    "country": "Bhutan",
+    "iataCode": "PBH",
+    "lat": 27.5,
+    "lng": 90.5,
+    "tagline": "Land of the thunder dragon",
+    "description": "Mystical Himalayan kingdom preserves ancient Buddhist culture in dramatic mountain monasteries, untouched valleys, and a happiness-focused way of life.",
+    "vibe": [
+      "Spiritual",
+      "Cultural",
+      "Adventure"
+    ],
+    "bestTime": "March to May, September to November",
+    "heroImage": "https://picsum.photos/seed/bhutan-hero/1200/600",
+    "stays": [
+      {
+        "name": "Amankora Bhutan",
+        "type": "Luxury Resort",
+        "description": "Ultra-luxury lodges across Bhutan's major valleys",
+        "image": "https://picsum.photos/seed/bhutan-stay-52/500/400",
+        "priceNote": "From $1000/night"
+      },
+      {
+        "name": "Taj Tashi Thimphu",
+        "type": "Upscale Hotel",
+        "description": "5-star hotel in the capital with modern Bhutanese design",
+        "image": "https://picsum.photos/seed/bhutan-stay-53/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Bhutan Kora Resort",
+        "type": "Boutique Resort",
+        "description": "Mid-range eco-friendly resort in nature",
+        "image": "https://picsum.photos/seed/bhutan-stay-54/500/400",
+        "priceNote": "From $200/night"
+      }
+    ],
+    "experiences": [
+      "Trek to Tiger's Nest Monastery",
+      "Participate in cultural festivals",
+      "Visit traditional dzongs",
+      "Mountain biking through valleys"
+    ]
+  },
+  {
+    "id": "antelope-canyon",
+    "name": "Antelope Canyon",
+    "country": "USA",
+    "iataCode": "PHX",
+    "lat": 36.9,
+    "lng": -111.4,
+    "tagline": "Slot canyon light beams",
+    "description": "Stunning narrow slot canyons carved by water through Navajo sandstone create otherworldly light beams and intricate patterns of orange and purple stone.",
+    "vibe": [
+      "Nature",
+      "Photography",
+      "Adventure"
+    ],
+    "bestTime": "March to October",
+    "heroImage": "https://picsum.photos/seed/antelope-canyon-hero/1200/600",
+    "stays": [
+      {
+        "name": "Kayenta Monument Valley Hotel",
+        "type": "Upscale Hotel",
+        "description": "Modern hotel near Antelope Canyon",
+        "image": "https://picsum.photos/seed/antelope-canyon-stay-55/500/400",
+        "priceNote": "From $250/night"
+      },
+      {
+        "name": "Page-Lake Powell Motel",
+        "type": "Mid-Range Hotel",
+        "description": "Convenient base for exploring the area",
+        "image": "https://picsum.photos/seed/antelope-canyon-stay-56/500/400",
+        "priceNote": "From $120/night"
+      },
+      {
+        "name": "Shooting Star RV Resort",
+        "type": "RV & Campground",
+        "description": "Desert camping under the stars",
+        "image": "https://picsum.photos/seed/antelope-canyon-stay-57/500/400",
+        "priceNote": "From $50/night"
+      }
+    ],
+    "experiences": [
+      "Guided tour through Lower Antelope Canyon",
+      "Photograph light beams at sunrise",
+      "Explore Horseshoe Bend",
+      "Visit Lake Powell"
+    ]
+  },
+  {
+    "id": "tuscany",
+    "name": "Tuscany",
+    "country": "Italy",
+    "iataCode": "PSA",
+    "lat": 43.2,
+    "lng": 11.9,
+    "tagline": "Rolling hills and Renaissance charm",
+    "description": "Idyllic Italian region of rolling vineyards, cypress-lined roads, medieval hilltop towns, and world-class wine creates a romantic and timeless atmosphere.",
+    "vibe": [
+      "Romantic",
+      "Cultural",
+      "Culinary"
+    ],
+    "bestTime": "May to September",
+    "heroImage": "https://picsum.photos/seed/tuscany-hero/1200/600",
+    "stays": [
+      {
+        "name": "Rosewood Castiglion del Bosco",
+        "type": "Ultra-Luxury Resort",
+        "description": "Restored Tuscan estate with vineyard and spa",
+        "image": "https://picsum.photos/seed/tuscany-stay-58/500/400",
+        "priceNote": "From $800/night"
+      },
+      {
+        "name": "Belmond Castello di Casole",
+        "type": "Luxury Castle Hotel",
+        "description": "Historic medieval castle with wine cellar",
+        "image": "https://picsum.photos/seed/tuscany-stay-59/500/400",
+        "priceNote": "From $600/night"
+      },
+      {
+        "name": "Villa Poggio Saraceno",
+        "type": "Boutique Villa",
+        "description": "Traditional stone villa surrounded by vineyards",
+        "image": "https://picsum.photos/seed/tuscany-stay-60/500/400",
+        "priceNote": "From $300/night"
+      }
+    ],
+    "experiences": [
+      "Wine tasting tours in Chianti region",
+      "Cooking class with local chef",
+      "Visit medieval towns of Siena and San Gimignano",
+      "Truffle hunting expedition"
+    ]
+  },
+  {
+    "id": "oaxaca",
+    "name": "Oaxaca",
+    "country": "Mexico",
+    "iataCode": "OAX",
+    "lat": 17.1,
+    "lng": -96.7,
+    "tagline": "Indigenous culture and chocolate",
+    "description": "Mexican colonial city rich in indigenous Zapotec and Mixtec culture, vibrant markets, chocolate traditions, and colonial architecture in green mountains.",
+    "vibe": [
+      "Cultural",
+      "Culinary",
+      "Artistic"
+    ],
+    "bestTime": "November to April",
+    "heroImage": "https://picsum.photos/seed/oaxaca-hero/1200/600",
+    "stays": [
+      {
+        "name": "Casa Crespo",
+        "type": "Luxury Boutique",
+        "description": "Restored colonial mansion in the historic center",
+        "image": "https://picsum.photos/seed/oaxaca-stay-61/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Xcaret Casa",
+        "type": "Upscale Resort",
+        "description": "Modern eco-luxury property with cultural experiences",
+        "image": "https://picsum.photos/seed/oaxaca-stay-62/500/400",
+        "priceNote": "From $350/night"
+      },
+      {
+        "name": "Hotel Madero",
+        "type": "Mid-Range Hotel",
+        "description": "Contemporary hotel in the main square",
+        "image": "https://picsum.photos/seed/oaxaca-stay-63/500/400",
+        "priceNote": "From $150/night"
+      }
+    ],
+    "experiences": [
+      "Explore Central de Abastos market",
+      "Learn traditional chocolate making",
+      "Visit traditional weaving villages",
+      "Attend Day of the Dead celebrations"
+    ]
+  },
+  {
+    "id": "sri-lanka",
+    "name": "Sri Lanka",
+    "country": "Sri Lanka",
+    "iataCode": "CMB",
+    "lat": 6.9,
+    "lng": 80.8,
+    "tagline": "Tea hills and temple spires",
+    "description": "Tropical island paradise combining beaches, misty highlands with tea plantations, ancient Buddhist temples, and a rich cultural heritage.",
+    "vibe": [
+      "Beach",
+      "Cultural",
+      "Adventure"
+    ],
+    "bestTime": "December to April",
+    "heroImage": "https://picsum.photos/seed/sri-lanka-hero/1200/600",
+    "stays": [
+      {
+        "name": "The Kandy House",
+        "type": "Luxury Boutique",
+        "description": "Elegant colonial mansion in the cultural heart",
+        "image": "https://picsum.photos/seed/sri-lanka-stay-64/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Santani Wellness Resort",
+        "type": "Luxury Wellness Resort",
+        "description": "Spa resort in the tea hill highlands",
+        "image": "https://picsum.photos/seed/sri-lanka-stay-65/500/400",
+        "priceNote": "From $500/night"
+      },
+      {
+        "name": "Galle Face Hotel",
+        "type": "Historic Grand Hotel",
+        "description": "Iconic oceanfront hotel in Colombo",
+        "image": "https://picsum.photos/seed/sri-lanka-stay-66/500/400",
+        "priceNote": "From $300/night"
+      }
+    ],
+    "experiences": [
+      "Tea plantation tour and tasting",
+      "Visit ancient Buddhist temples",
+      "Climb Sigiriya Rock Fortress",
+      "Whale watching from Mirissa beach"
+    ]
+  },
+  {
+    "id": "zanzibar",
+    "name": "Zanzibar",
+    "country": "Tanzania",
+    "iataCode": "ZNZ",
+    "lat": -6.2,
+    "lng": 39.2,
+    "tagline": "Spice island shores",
+    "description": "Historic Swahili island offering pristine white-sand beaches, spice plantations, ancient Stone Town with Arab and African fusion culture, and crystal-clear waters.",
+    "vibe": [
+      "Beach",
+      "Cultural",
+      "Relaxing"
+    ],
+    "bestTime": "June to October, December to February",
+    "heroImage": "https://picsum.photos/seed/zanzibar-hero/1200/600",
+    "stays": [
+      {
+        "name": "Palais Zanzibar",
+        "type": "Luxury Palace Hotel",
+        "description": "19th-century palace overlooking Stone Town and ocean",
+        "image": "https://picsum.photos/seed/zanzibar-stay-67/500/400",
+        "priceNote": "From $500/night"
+      },
+      {
+        "name": "Baraza Resort & Spa",
+        "type": "Luxury Beach Resort",
+        "description": "Private island resort with white-sand beach",
+        "image": "https://picsum.photos/seed/zanzibar-stay-68/500/400",
+        "priceNote": "From $600/night"
+      },
+      {
+        "name": "Zanzibar Palace Hotel",
+        "type": "Upscale Historic Hotel",
+        "description": "Traditional hotel in historic Stone Town",
+        "image": "https://picsum.photos/seed/zanzibar-stay-69/500/400",
+        "priceNote": "From $250/night"
+      }
+    ],
+    "experiences": [
+      "Explore Stone Town's narrow streets",
+      "Spice plantation tour",
+      "Snorkel at Pemba Island",
+      "Visit local markets and museums"
+    ]
+  },
+  {
+    "id": "azores",
+    "name": "Azores",
+    "country": "Portugal",
+    "iataCode": "PDL",
+    "lat": 37.8,
+    "lng": -25.7,
+    "tagline": "Atlantic island serenity",
+    "description": "Portuguese archipelago in the Atlantic featuring volcanic peaks, crater lakes, lush green valleys, whale watching, and dramatic coastal cliffs.",
+    "vibe": [
+      "Nature",
+      "Adventure",
+      "Peaceful"
+    ],
+    "bestTime": "May to September",
+    "heroImage": "https://picsum.photos/seed/azores-hero/1200/600",
+    "stays": [
+      {
+        "name": "Azores Getaway Resort",
+        "type": "Luxury Resort",
+        "description": "Clifftop resort with thermal pools and spa",
+        "image": "https://picsum.photos/seed/azores-stay-70/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Ponta Delgada Inn",
+        "type": "Boutique Hotel",
+        "description": "Charming colonial-style hotel in the capital",
+        "image": "https://picsum.photos/seed/azores-stay-71/500/400",
+        "priceNote": "From $200/night"
+      },
+      {
+        "name": "Whale Watching Lodge",
+        "type": "Adventure Lodge",
+        "description": "Eco-lodge specializing in marine adventures",
+        "image": "https://picsum.photos/seed/azores-stay-72/500/400",
+        "priceNote": "From $250/night"
+      }
+    ],
+    "experiences": [
+      "Whale and dolphin watching tours",
+      "Hike volcanic crater trails",
+      "Canyoning in river canyons",
+      "Visit thermal hot springs"
+    ]
+  },
+  {
+    "id": "svalbard",
+    "name": "Svalbard",
+    "country": "Norway",
+    "iataCode": "LYR",
+    "lat": 78.2,
+    "lng": 15.6,
+    "tagline": "Arctic ice and Northern Lights",
+    "description": "Norwegian Arctic archipelago offering polar bear spotting, Northern Lights viewing, vast Arctic wilderness, and the unique Svalbard Global Seed Vault.",
+    "vibe": [
+      "Adventure",
+      "Nature",
+      "Arctic"
+    ],
+    "bestTime": "November to January for Northern Lights, June to August for midnight sun",
+    "heroImage": "https://picsum.photos/seed/svalbard-hero/1200/600",
+    "stays": [
+      {
+        "name": "Svalbard Hotel",
+        "type": "Luxury Hotel",
+        "description": "Modern hotel in Longyearbyen with Arctic design",
+        "image": "https://picsum.photos/seed/svalbard-stay-73/500/400",
+        "priceNote": "From $400/night"
+      },
+      {
+        "name": "Basecamp Spitsbergen",
+        "type": "Adventure Lodge",
+        "description": "Cozy log cabin lodge for polar adventures",
+        "image": "https://picsum.photos/seed/svalbard-stay-74/500/400",
+        "priceNote": "From $300/night"
+      },
+      {
+        "name": "Polarcirkelen Cabin",
+        "type": "Arctic Cabin",
+        "description": "Traditional Sami-inspired accommodation",
+        "image": "https://picsum.photos/seed/svalbard-stay-75/500/400",
+        "priceNote": "From $250/night"
+      }
+    ],
+    "experiences": [
+      "Polar bear safaris",
+      "Chase the Northern Lights",
+      "Snowmobiling across ice",
+      "Visit the Global Seed Vault"
+    ]
+  },
+  {
+    "id": "luang-prabang",
+    "name": "Luang Prabang",
+    "country": "Laos",
+    "iataCode": "LPQ",
+    "lat": 19.9,
+    "lng": 102.1,
+    "tagline": "Temples and the Mekong",
+    "description": "UNESCO World Heritage town along the Mekong River preserving Laotian Buddhist culture with golden temples, French colonial architecture, and peaceful riverside life.",
+    "vibe": [
+      "Spiritual",
+      "Cultural",
+      "Peaceful"
+    ],
+    "bestTime": "November to February",
+    "heroImage": "https://picsum.photos/seed/luang-prabang-hero/1200/600",
+    "stays": [
+      {
+        "name": "Aman Villas at Nspalai",
+        "type": "Luxury Villas",
+        "description": "Riverside villas with private spa and plunge pools",
+        "image": "https://picsum.photos/seed/luang-prabang-stay-76/500/400",
+        "priceNote": "From $600/night"
+      },
+      {
+        "name": "La Résidence Phou Vao",
+        "type": "Luxury Hotel",
+        "description": "Boutique hotel overlooking the Mekong",
+        "image": "https://picsum.photos/seed/luang-prabang-stay-77/500/400",
+        "priceNote": "From $350/night"
+      },
+      {
+        "name": "Villa Maly",
+        "type": "Boutique Guesthouse",
+        "description": "Charming colonial villa in the old town",
+        "image": "https://picsum.photos/seed/luang-prabang-stay-78/500/400",
+        "priceNote": "From $100/night"
+      }
+    ],
+    "experiences": [
+      "Alms-giving ceremony at dawn",
+      "Temple visits and meditation",
+      "Mekong river sunset cruises",
+      "Night market exploration"
+    ]
+  },
+  {
+    "id": "oman",
+    "name": "Oman",
+    "country": "Oman",
+    "iataCode": "MCT",
+    "lat": 23.6,
+    "lng": 58.5,
+    "tagline": "Desert dunes and mountain passes",
+    "description": "Sultanate offering desert wadis, canyoning adventures, ancient forts, traditional markets, and a more authentic Arabian experience than its neighbors.",
+    "vibe": [
+      "Adventure",
+      "Cultural",
+      "Desert"
+    ],
+    "bestTime": "October to April",
+    "heroImage": "https://picsum.photos/seed/oman-hero/1200/600",
+    "stays": [
+      {
+        "name": "Alila Jabal Akhdar",
+        "type": "Luxury Resort",
+        "description": "Clifftop resort on the Green Mountain",
+        "image": "https://picsum.photos/seed/oman-stay-79/500/400",
+        "priceNote": "From $500/night"
+      },
+      {
+        "name": "Dunes by Al Maha",
+        "type": "Desert Resort",
+        "description": "Luxury tented camps in the desert",
+        "image": "https://picsum.photos/seed/oman-stay-80/500/400",
+        "priceNote": "From $450/night"
+      },
+      {
+        "name": "Al Bustan Palace Hotel",
+        "type": "Luxury Hotel",
+        "description": "Iconic beachfront palace in Muscat",
+        "image": "https://picsum.photos/seed/oman-stay-81/500/400",
+        "priceNote": "From $400/night"
+      }
+    ],
+    "experiences": [
+      "Wadi canyoning and hiking",
+      "Desert dune adventure",
+      "Visit ancient forts",
+      "Turtle nesting tours"
+    ]
+  },
+  {
+    "id": "lofoten-islands",
+    "name": "Lofoten Islands",
+    "country": "Norway",
+    "iataCode": "BOO",
+    "lat": 68.5,
+    "lng": 13.5,
+    "tagline": "Mountains rising from the sea",
+    "description": "Norwegian Arctic islands rising dramatically from the sea, featuring dramatic peaks, charming fishing villages, Northern Lights, and pristine fishing traditions.",
+    "vibe": [
+      "Nature",
+      "Arctic",
+      "Peaceful"
+    ],
+    "bestTime": "December to January for Northern Lights, June to August for midnight sun",
+    "heroImage": "https://picsum.photos/seed/lofoten-islands-hero/1200/600",
+    "stays": [
+      {
+        "name": "Lofoten Suite Hotel",
+        "type": "Luxury Hotel",
+        "description": "Modern hotel with panoramic mountain views",
+        "image": "https://picsum.photos/seed/lofoten-islands-stay-82/500/400",
+        "priceNote": "From $350/night"
+      },
+      {
+        "name": "Sakrisøy Rorbuer",
+        "type": "Traditional Cabins",
+        "description": "Authentic fishermen cabins on stilts over the water",
+        "image": "https://picsum.photos/seed/lofoten-islands-stay-83/500/400",
+        "priceNote": "From $250/night"
+      },
+      {
+        "name": "Reine Rorbuer",
+        "type": "Cottage Lodges",
+        "description": "Cozy wooden cabins in a fishing village",
+        "image": "https://picsum.photos/seed/lofoten-islands-stay-84/500/400",
+        "priceNote": "From $200/night"
+      }
+    ],
+    "experiences": [
+      "Witness Northern Lights from your cabin",
+      "Fishing adventures",
+      "Mountain hiking",
+      "Photography of dramatic peaks"
+    ]
+  },
+  {
+    "id": "cartagena",
+    "name": "Cartagena",
+    "country": "Colombia",
+    "iataCode": "CTG",
+    "lat": 10.4,
+    "lng": -75.5,
+    "tagline": "Colorful colonial charm",
+    "description": "Caribbean walled city bursting with colorful colonial buildings, romantic plazas, Caribbean beaches, and a rich history as a UNESCO World Heritage site.",
+    "vibe": [
+      "Romantic",
+      "Cultural",
+      "Beach"
+    ],
+    "bestTime": "December to April",
+    "heroImage": "https://picsum.photos/seed/cartagena-hero/1200/600",
+    "stays": [
+      {
+        "name": "Alvear Palace Hotel Caribbean",
+        "type": "Ultra-Luxury Hotel",
+        "description": "Iconic luxury hotel in the heart of the walled city",
+        "image": "https://picsum.photos/seed/cartagena-stay-85/500/400",
+        "priceNote": "From $800/night"
+      },
+      {
+        "name": "Hotel Charleston",
+        "type": "Luxury Boutique",
+        "description": "Restored colonial palace with courtyard",
+        "image": "https://picsum.photos/seed/cartagena-stay-86/500/400",
+        "priceNote": "From $500/night"
+      },
+      {
+        "name": "Media Luna Hotel",
+        "type": "Mid-Range Boutique",
+        "description": "Charming guesthouse in the old town",
+        "image": "https://picsum.photos/seed/cartagena-stay-87/500/400",
+        "priceNote": "From $200/night"
+      }
+    ],
+    "experiences": [
+      "Sunset stroll through the old city walls",
+      "Island hopping to Rosario Islands",
+      "Colonial architecture tours",
+      "Beach days and nightlife"
+    ]
+  },
+  {
+    "id": "socotra",
+    "name": "Socotra",
+    "country": "Yemen",
+    "iataCode": "SCT",
+    "lat": 12.5,
+    "lng": 54,
+    "tagline": "Island of alien-like trees",
+    "description": "Remote Yemeni island often called the 'Galápagos of the Indian Ocean,' featuring bizarre dragon blood trees, pristine beaches, and one of earth's most unique ecosystems.",
+    "vibe": [
+      "Adventure",
+      "Nature",
+      "Exotic"
+    ],
+    "bestTime": "October to April",
+    "heroImage": "https://picsum.photos/seed/socotra-hero/1200/600",
+    "stays": [
+      {
+        "name": "Socotra Island Resort",
+        "type": "Adventure Resort",
+        "description": "The primary resort accommodation on the island",
+        "image": "https://picsum.photos/seed/socotra-stay-88/500/400",
+        "priceNote": "From $300/night"
+      },
+      {
+        "name": "Hadiboh Guesthouse",
+        "type": "Basic Guesthouse",
+        "description": "Local family-run accommodation in the main town",
+        "image": "https://picsum.photos/seed/socotra-stay-89/500/400",
+        "priceNote": "From $100/night"
+      },
+      {
+        "name": "Camping under the stars",
+        "type": "Eco-Camping",
+        "description": "Bivouac experience in remote locations",
+        "image": "https://picsum.photos/seed/socotra-stay-90/500/400",
+        "priceNote": "From $50/night"
+      }
+    ],
+    "experiences": [
+      "Trek through dragon blood tree forest",
+      "Pristine beach exploration",
+      "Snorkeling in unique waters",
+      "Indigenous Socotri culture immersion"
+    ]
+  }
+]
